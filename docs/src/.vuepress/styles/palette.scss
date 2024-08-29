@@ -1,0 +1,23 @@
+// 设置全局变量
+// @property --main-color{
+// 	syntax: '<color>';
+// 	initial-value: #fff;
+// 	inherits: true;
+// }
+// you can change colors here
+// 设置一系列你想要启用的其他主题色
+$theme-colors:  #6525fa, #fc801d, #087cfa, #fe2857;
+// 左侧菜单栏的宽度
+$sidebar-mobile-width: 16rem;
+
+// 加大移动设备上的导航栏高度
+$navbar-mobile-height: 3.5rem;
+
+//字体
+// font
+$font-family: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", STHeiti, "Microsoft YaHei", SimSun, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"' !default;
+$font-family-heading: $font-family !default;
+$font-family-mono: 'Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace' !default;
+// transition
+$color-transition: "0.3s ease" !default;
+$transform-transition: "0.3s ease" !default;
