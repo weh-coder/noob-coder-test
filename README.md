@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://noob.itweh.cn">
-    <img src="https://noob-station.oss-cn-shanghai.aliyuncs.com/logo-dark.svg" width="200px" alt="二哥的Java进阶之路">
+    <img src="https://noob-station.oss-cn-shanghai.aliyuncs.com/logo-dark.svg" width="200px" alt="菜鸟程序猿">
   </a>
 </p>
 
