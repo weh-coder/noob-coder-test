@@ -9,7 +9,7 @@
   <a href="https://noob.itweh.cn/blog.html" target="_blank"><img src="https://img.shields.io/badge/链接-菜鸟程序猿-green.svg?style=plastic"></a>
   <a href="https://noob.itweh.cn/assets/image/weixin.jpg" target="_blank"><img src="https://img.shields.io/badge/微信-奇腾-brightgreen.svg?style=plastic"></a>
   <a href="https://noob.itweh.cn/xuexiqun.pdf" target="_blank"><img src="https://img.shields.io/badge/学习群-全栈开发交流群-critical?style=plastic"></a>
-  <a href="https://blog.csdn.net/IT__WEH__coder" target="_blank"><img src="https://img.shields.io/badge/csdn-IT_WEH_coder-yellow.svg?style=plastic"></a>
+  <a href="https://blog.csdn.net/IT_WEH_coder" target="_blank"><img src="https://img.shields.io/badge/csdn-IT_WEH_coder-yellow.svg?style=plastic"></a>
   <a href="https://gitee.com/weh_coder" target="_blank"><img src="https://img.shields.io/badge/gitee-weh__coder-blue.svg?style=plastic"></a>
     <a href="https://github.com/weh-coder" target="_blank"><img src="https://img.shields.io/badge/github-weh--coder-blue.svg?style=plastic"></a>
 <br><br>
