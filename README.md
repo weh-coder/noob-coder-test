@@ -1,11 +1,6 @@
 
 <p align="center">
-  <a href="https://noob.itweh.cn">
-    <img src="https://noob-station.oss-cn-shanghai.aliyuncs.com/logo-dark.svg" width="200px" alt="菜鸟程序猿">
-  </a>
-</p>
-
-<p align="center">
+  <img src="./logo-dark.png" />
   <a href="https://noob.itweh.com/blog.html" target="_blank"><img src="https://img.shields.io/badge/链接-菜鸟程序猿-green.svg?style=plastic"></a>
   <a href="https://noob.itweh.com/assets/image/weixin.jpg" target="_blank"><img src="https://img.shields.io/badge/微信-奇腾-brightgreen.svg?style=plastic"></a>
   <a href="https://noob.itweh.com/xuexiqun.pdf" target="_blank"><img src="https://img.shields.io/badge/学习群-全栈开发交流群-critical?style=plastic"></a>
