@@ -19,5 +19,5 @@
 
 ## 预览效果
 
-![image](https://github.com/user-attachments/assets/530a16b3-0df5-4c04-9aab-4012de47c25b)
+![image](./noob.png)
 
