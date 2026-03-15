@@ -1,6 +1,6 @@
-
+![image](./noob.png#pic_center)
+<br><br>
 <p align="center">
-  <img src="./logo-dark.png" />
   <a href="https://noob.itweh.com/blog.html" target="_blank"><img src="https://img.shields.io/badge/链接-菜鸟程序猿-green.svg?style=plastic"></a>
   <a href="https://noob.itweh.com/assets/image/weixin.jpg" target="_blank"><img src="https://img.shields.io/badge/微信-奇腾-brightgreen.svg?style=plastic"></a>
   <a href="https://noob.itweh.com/xuexiqun.pdf" target="_blank"><img src="https://img.shields.io/badge/学习群-全栈开发交流群-critical?style=plastic"></a>
