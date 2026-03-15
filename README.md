@@ -1,5 +1,7 @@
-![image](./noob.png#pic_center)
-<br><br>
+<p align="center">
+    <img src="./logo-dark.png" alt="描述" style="display: block; margin-left: auto; margin-right: auto;">
+</p>
+<br>
 <p align="center">
   <a href="https://noob.itweh.com/blog.html" target="_blank"><img src="https://img.shields.io/badge/链接-菜鸟程序猿-green.svg?style=plastic"></a>
   <a href="https://noob.itweh.com/assets/image/weixin.jpg" target="_blank"><img src="https://img.shields.io/badge/微信-奇腾-brightgreen.svg?style=plastic"></a>
